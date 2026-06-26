@@ -32,8 +32,8 @@ InternHire Portal is a responsive web application developed using Bootstrap that
 ```text
 InternHire-Portal/
 │
-├── index.html
 ├── images/
+├── index.html
 ├── internships.html
 ├── contact.html
 ├── register.html
